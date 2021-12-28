@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+}
+.header{
+    background: #666;
+    padding: 1em;
+
+}
+.header_content{
+    background: #777;
+    min-height: 5em;
+    display: block;
+
+}
